@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c_technacal_communication_at_vistula"
+               path="concept/c_technical_communication_at_vistula.html"/>
+   <appContext helpID="r_references1" path="reference/r_references1.html"/>
+   <appContext helpID="c_a_profession_of_technical_writer"
+               path="concept/c_a_profession_of_technical_writer.html"/>
+   <appContext helpID="r_references2" path="reference/r_references2.html"/>
+   <appContext helpID="c_technical_text" path="concept/c_technical_text.html"/>
+   <appContext helpID="differentiating_types_of_documents"
+               path="concept/c_types_of_documents.html"/>
+   <appContext helpID="t_following_document_development_life_cycle"
+               path="concept/c_document_development_life_cycle.html"/>
+   <appContext helpID="t_identifying_milestones_in_the_process_of_writing"
+               path="concept/c_important_aspects_of_writing.html"/>
+   <appContext helpID="r_references3" path="reference/r_references3.html"/>
+   <appContext helpID="c_web_technologies" path="concept/c_web_technologies.html"/>
+   <appContext helpID="r_references4" path="reference/r_references4.html"/>
+   <appContext helpID="c_basic_technologies" path="concept/c_basic_technologies.html"/>
+   <appContext helpID="t_differentiating_input_and_output_formats"
+               path="concept/c_input_and_output_formats.html"/>
+   <appContext helpID="t_starting_with_markdown" path="concept/c_markdown.html"/>
+   <appContext helpID="t_adding_graphical_elements"
+               path="concept/c_graphical_elements.html"/>
+   <appContext helpID="t_working_with_github_and_github_pages"
+               path="concept/c_github_and_github_pages.html"/>
+   <appContext helpID="t_applying_just_the_docs_and_jekyll"
+               path="concept/c_just_the_docs_and_jekyll.html"/>
+   <appContext helpID="r_references5" path="reference/r_references5.html"/>
+   <appContext helpID="c_techniques_and_tools" path="concept/c_tools.html"/>
+   <appContext helpID="t_using_madcap_flare" path="concept/c_madcap_flare.html"/>
+   <appContext helpID="t_applying_dita_and_oxygen"
+               path="concept/c_dita_and_oxygen.html"/>
+   <appContext helpID="t_understanding_localization_and_memoq"
+               path="concept/c_localization_and_memoq.html"/>
+   <appContext helpID="r_references6" path="reference/r_references6.html"/>
+   <appContext helpID="c_project_management" path="concept/c_project_management.html"/>
+   <appContext helpID="t_choosing_between_waterfall_and_agile"
+               path="concept/c_waterfall_and_agile.html"/>
+   <appContext helpID="t_understanding_project_life_cycle"
+               path="concept/c_project_life_cycle.html"/>
+   <appContext helpID="t_working_in_jira" path="concept/c_jira.html"/>
+   <appContext helpID="r_references7" path="reference/r_references7.html"/>
+   <appContext helpID="c_itcqf_certification"
+               path="concept/c_itcqf_certification.html"/>
+   <appContext helpID="r_references8" path="reference/r_references8.html"/>
+   <appContext helpID="duck_equipment" path="glossary/g_glossary.html"/>
+</map>

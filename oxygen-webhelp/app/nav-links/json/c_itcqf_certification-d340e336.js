@@ -1,0 +1,1 @@
+define({"topics":[{"title":"References","shortdesc":"<p class=\"shortdesc\">There are some helpful links which can be used in the process of preparation for the         exam.<\/p>","href":"reference\/r_references8.html","attributes":{"data-id":"r_references8"},"menu":{"hasChildren":false},"tocID":"r_references8-d340e347","topics":[]}]});

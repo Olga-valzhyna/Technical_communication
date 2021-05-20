@@ -1,0 +1,1 @@
+define({"topics":[{"title":"References","shortdesc":"<p class=\"shortdesc\">HTML and CSS tutorials are available on the Internet.<\/p>","href":"reference\/r_references4.html","attributes":{"data-id":"r_references4"},"menu":{"hasChildren":false},"tocID":"r_references4-d340e133","topics":[]}]});

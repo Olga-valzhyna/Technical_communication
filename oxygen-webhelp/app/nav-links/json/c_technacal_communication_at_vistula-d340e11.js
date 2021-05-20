@@ -1,0 +1,1 @@
+define({"topics":[{"title":"References","shortdesc":"<p class=\"shortdesc\">The details for those who are interested in the course.<\/p>","href":"reference\/r_references1.html","attributes":{"data-id":"r_references1"},"menu":{"hasChildren":false},"tocID":"r_references1-d340e22","topics":[]}]});
